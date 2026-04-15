@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Beamer\ allows\ user\ to\ charge\ a\ room\ to\ be\ teleported\ back\ whenever\ used\r\n\r\n\ @author\ Minh\ Quang\ TRAN\r\n
+comment1.params=pItemNom\ pItemDescription\ pItemWeight\ pChargedRoom\ pNTimeUsedLeft
+comment1.target=Beamer(java.lang.String,\ java.lang.String,\ int,\ Room,\ int)
+comment1.text=\r\n\ contructeur\ par\ d\u00E9faut\r\n\ @param\ pItemNom\r\n\ @param\ pItemDescription\r\n\ @param\ pItemWeight\r\n\ @param\ pChargedRoom\r\n
+comment2.params=pChargedRoom
+comment2.target=void\ chargeRoom(Room)
+comment2.text=\r\n\ charge\ room\r\n
+comment3.params=
+comment3.target=Room\ getChargedRoom()
+comment3.text=\r\n\ @return\ this.aChargedRoom\r\n
+comment4.params=deltaTime
+comment4.target=void\ setUse(int)
+comment4.text=\r\n\ setUse\ add\ or\ subtract\ the\ amount\ of\ time\ the\ beamer\ can\ be\ used\r\n
+comment5.params=
+comment5.target=int\ getTimeUsed()
+comment5.text=\r\n\ return\ how\ many\ time\ left\ the\ beamer\ can\ be\ used\r\n
+comment6.params=
+comment6.target=boolean\ canBeUse()
+comment6.text=\r\n\ return\ true\ if\ the\ beamer\ can\ be\ used,\ false\ other\ wise\r\n
+numComments=7
