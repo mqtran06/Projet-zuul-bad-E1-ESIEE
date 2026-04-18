@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ Command\ -\ une\ commande\ du\ jeu\ d'aventure\ Zuul.\r\n\r\n\ @author\ Minh\ Quang\ TRAN\r\n
+comment1.params=pCommandWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ @param\ pSecondWord\ second\ word\ of\ the\ user's\ input\r\n\ @param\ pCommandWord\ first\ word\ of\ the\ user's\ input\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ return\ first\ word\ (Command\ word)\r\n\ @return\ aCommandWord\ -\ the\ first\ word\ of\ the\ user's\ input\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ return\ second\ word\r\n\ @return\ aSecondWord\ -\ the\ second\ word\ of\ the\ user's\ input\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ @return\ this.aSecondWord\ \!\=\ null\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ detect\ whether\ or\ not\ the\ word\ is\ valid\ (in\ class\ CommandWords)\r\n\ @return\ this.aCommandWord\ \=\=\ null\r\n
+numComments=6
