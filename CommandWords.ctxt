@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ Command\ word,\ stored\ valid\ command\ \r\n
+comment1.params=pString
+comment1.target=boolean\ isCommand(java.lang.String)
+comment1.text=\r\n\ Check\ whether\ a\ given\ String\ is\ a\ valid\ command\ word.\ \r\n\ return\ true\ if\ a\ given\ string\ is\ a\ valid\ command,\r\n\ false\ if\ it\ isn't.\r\n\ @param\ pString\ -\ user\ input\r\n\ @return\ this.aValidCommands[vI].equals(pString)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandList()
+comment2.text=\r\n\ return\ all\ valid\ words\ without\ printing\ it\ like\ "showall"\ procedure\r\n\ @return\ allCommand\ -\ command\ that\ we\ can\ use,\ can\ be\ the\ printed\ in\ other\ method\ such\ as\ help\r\n
+numComments=3
